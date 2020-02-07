@@ -1,10 +1,19 @@
 **文件快速下载：**  
 
-- 使用说明：<https://www.lanzous.com/i8u8myh>  &emsp;或&emsp;  <http://me.cjxu.cc/doc/AQ6370.pdf>
+- 使用说明：<https://www.lanzous.com/i8u8myh>  &emsp;或&emsp;  <http://me.cjxu.cc/doc/AQ6370.pdf>  &emsp;或&emsp;查看本页说明
 
-- 工具箱安装包：<https://www.lanzous.com/i8u8ouf>
 
-- 工具箱开源版本：<https://www.lanzous.com/i8u8naj>  
+V2.1
+ - 添加数据导出Mat、CSV格式，便于专业软件绘图
+ - 添加时间日志记录，所有操作可溯源。    
+
+ - 下载地址：https://www.lanzous.com/i94ntid  &emsp; 体积更小
+ - 开源版本：https://www.lanzous.com/i94nxsh
+
+V2.0
+- 下载地址：<https://www.lanzous.com/i8u8ouf>
+
+- 开源版本：<https://www.lanzous.com/i8u8naj>  
 
 ----
 **++++++++++++++++++++++++++++++++++++++++++++**
@@ -151,15 +160,24 @@ Plus即可。可将APP④添加收藏，并拖动排序，使之靠前，下次�
 ----
 ### **3.线图保存**
 
-&emsp;推荐保存为emf格式（矢量图）。使用时，直接将[\*.emf]文件拖入word即可。
+&emsp;推荐保存为emf格式（矢量图）。使用时，直接将[\*.emf]文件拖入word即可。  
 
 ![](media/7905d0a20e0dfadb93a42e36bbb200a4.png)
+----
+### **4.数据导出**  
+&emsp;可将绘图的数据导出为mat便于复现数据，另外日志也会记录绘图的详细设置，同样有助于图标复现。  
+&emsp;CSV数据的导出，便于其他软件使用，满足专业数据处理的需求。
 
 ----
-### **4.下载地址**
+### **5.日志记录**
+&emsp;将在工作目录生成Log.txt日志文件，可直接打开查看。    
+
+![](media/20200207151258.png)
+
+
+----
+### **6.链接**
 
 >   Gitee：<https://gitee.com/cjxu/AQ6370-Analyzer-Plus>
 
 >   Github：<https://github.com/cxeo/AQ6370-Analyzer-Plus>
-
->   使用说明：<http://me.cjxu.cc/doc/AQ6370.pdf>
