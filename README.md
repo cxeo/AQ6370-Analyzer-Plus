@@ -7,8 +7,8 @@ V2.1
  - 添加数据导出Mat、CSV格式，便于专业软件绘图
  - 添加时间日志记录，所有操作可溯源。    
 
- - 下载地址：https://www.lanzous.com/i94ntid  &emsp; 体积更小
- - 开源版本：https://www.lanzous.com/i94nxsh
+ - 下载地址：https://www.lanzous.com/i9572le  &emsp; 体积更小
+ - 开源版本：https://www.lanzous.com/i95727a
 
 V2.0
 - 下载地址：<https://www.lanzous.com/i8u8ouf>
