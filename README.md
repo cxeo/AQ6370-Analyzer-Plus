@@ -5,10 +5,10 @@
 
 V2.1
  - 添加数据导出Mat、CSV格式，便于专业软件绘图
- - 添加时间日志记录，所有操作可溯源。    
+ - 添加日志记录，所有操作可溯源。    
 
- - 下载地址：https://www.lanzous.com/i9572le  &emsp; 体积更小
- - 开源版本：https://www.lanzous.com/i95727a
+ - 下载地址：https://www.lanzous.com/i95ik3a  &emsp; (预解析版体积更小)
+ - 开源版本：https://www.lanzous.com/i95ijyf
 
 V2.0
 - 下载地址：<https://www.lanzous.com/i8u8ouf>
@@ -56,7 +56,9 @@ V2.0
 
 14. 添加mat、csv格式数据导出   --- V2.1
 
-15. 添加日志记录，所有操作可溯源。  --- V2.1
+15. 添加标题时间戳
+
+16. 添加日志记录，所有操作可溯源。  --- V2.1
 
 >   **Note**：
 
