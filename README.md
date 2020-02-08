@@ -3,12 +3,13 @@
 - 使用说明：<https://www.lanzous.com/i8u8myh>  &emsp;或&emsp;  <http://me.cjxu.cc/doc/AQ6370.pdf>  &emsp;或&emsp;查看本页说明
 
 
-V2.1
+V2.2
  - 添加数据导出Mat、CSV格式，便于专业软件绘图
- - 添加日志记录，所有操作可溯源。    
+ - 添加日志记录，所有操作可溯源
+ - 修复刷新列表按键bug    
 
- - 下载地址：https://www.lanzous.com/i95ik3a  &emsp; (预解析版体积更小)
- - 开源版本：https://www.lanzous.com/i95ijyf
+ - 下载地址：https://www.lanzous.com/i95jkbe  &emsp; (预解析版体积更小)
+ - 开源版本：https://www.lanzous.com/i95jkgj
 
 V2.0
 - 下载地址：<https://www.lanzous.com/i8u8ouf>
@@ -54,11 +55,11 @@ V2.0
 
 13. 添加绘图窗口自定义设置（X/Y轴范围、X/Y轴Label、标题）
 
-14. 添加mat、csv格式数据导出   --- V2.1
+14. 添加mat、csv格式数据导出   --- V2.2
 
-15. 添加标题时间戳   --- V2.1
+15. 添加标题时间戳   --- V2.2
 
-16. 添加日志记录，所有操作可溯源。  --- V2.1
+16. 添加日志记录，所有操作可溯源。  --- V2.2
 
 >   **Note**：
 
@@ -176,7 +177,8 @@ Plus即可。可将APP④添加收藏，并拖动排序，使之靠前，下次�
 
 ----
 ### **5.日志记录**
-&emsp;将在工作目录生成Log.txt日志文件，可直接打开查看。    
+&emsp;将在工作目录生成Log.txt日志文件，可直接打开查看。   
+&emsp;标题时间戳与日志是对应的，可直接进行搜索寻找操作记录。
 
 ![](media/20200207151258.png)
 
