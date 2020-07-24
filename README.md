@@ -8,13 +8,11 @@ V2.2
  - 添加日志记录，所有操作可溯源
  - 修复刷新列表按键bug    
 
- - 下载地址：https://www.lanzous.com/i95jkbe  &emsp; (预解析版体积更小)
- - 开源版本：https://www.lanzous.com/i95jkgj  &emsp; (密码：lab003)
+ - 下载地址：https://www.lanzous.com/i95jkbe  &emsp; 
 
 V2.0
 - 下载地址：<https://www.lanzous.com/i8u8ouf>
 
-- 开源版本：<https://www.lanzous.com/i8u8naj>  &emsp; (密码：lab003)
 
 ----
 **++++++++++++++++++++++++++++++++++++++++++++**
